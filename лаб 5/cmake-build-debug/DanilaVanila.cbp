@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/s/Desktop/DanilaVanila/cmake-build-debug"/>
+				<Option working_dir="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/s/Desktop/DanilaVanila/cmake-build-debug"/>
+				<Option working_dir="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/s/Desktop/DanilaVanila/cmake-build-debug"/>
+				<Option working_dir="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DanilaVanila">
-				<Option output="/Users/s/Desktop/DanilaVanila/cmake-build-debug/DanilaVanila" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/s/Desktop/DanilaVanila/cmake-build-debug"/>
+				<Option output="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug/DanilaVanila" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 DanilaVanila"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 DanilaVanila"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DanilaVanila/fast">
-				<Option output="/Users/s/Desktop/DanilaVanila/cmake-build-debug/DanilaVanila" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/s/Desktop/DanilaVanila/cmake-build-debug"/>
+				<Option output="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug/DanilaVanila" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,20 +73,32 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 DanilaVanila/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/s/Desktop/DanilaVanila/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 DanilaVanila/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/VM/ITMO/Лабы/Готовые\ лабы\ /Программирование/лаб\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/s/Desktop/DanilaVanila/MyHeader.h">
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/IsEmpty.hpp">
 			<Option target="DanilaVanila"/>
 		</Unit>
-		<Unit filename="/Users/s/Desktop/DanilaVanila/main.cpp">
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/Menu.hpp">
 			<Option target="DanilaVanila"/>
 		</Unit>
-		<Unit filename="/Users/s/Desktop/DanilaVanila/CMakeLists.txt">
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/MyHeader.h">
+			<Option target="DanilaVanila"/>
+		</Unit>
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/Overflow.hpp">
+			<Option target="DanilaVanila"/>
+		</Unit>
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/Queue.hpp">
+			<Option target="DanilaVanila"/>
+		</Unit>
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/main.cpp">
+			<Option target="DanilaVanila"/>
+		</Unit>
+		<Unit filename="/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

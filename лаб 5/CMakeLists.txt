@@ -3,4 +3,4 @@ project(DanilaVanila)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DanilaVanila main.cpp MyHeader.h)
+add_executable(DanilaVanila main.cpp MyHeader.h Overflow.hpp IsEmpty.hpp Queue.hpp Menu.hpp)

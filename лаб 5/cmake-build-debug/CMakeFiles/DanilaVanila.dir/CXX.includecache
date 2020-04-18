@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/s/Desktop/DanilaVanila/MyHeader.h
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/MyHeader.h
 iostream
 -
 cmath
@@ -14,9 +14,9 @@ cmath
 vector
 -
 
-/Users/s/Desktop/DanilaVanila/main.cpp
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/main.cpp
 iostream
 -
 MyHeader.h
-/Users/s/Desktop/DanilaVanila/MyHeader.h
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/MyHeader.h
 
