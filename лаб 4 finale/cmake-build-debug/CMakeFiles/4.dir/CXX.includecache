@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 4/IGeoFig.cpp
+iostream
+-
+IGeoFig.h
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 4/IGeoFig.h
+cmath
+-
+
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 4/IGeoFig.h
+iostream
+-
+cmath
+-
+
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 4/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+IGeoFig.h
+/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 4/IGeoFig.h
+
