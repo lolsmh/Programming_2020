@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/VM/Учеба/Лабы/Готовые лабы /Программирование/лаб 2/main.cpp
+iostream
+-
+vector.h
+/Volumes/VM/Учеба/Лабы/Готовые лабы /Программирование/лаб 2/vector.h
+
+/Volumes/VM/Учеба/Лабы/Готовые лабы /Программирование/лаб 2/vector.cpp
+vector.h
+/Volumes/VM/Учеба/Лабы/Готовые лабы /Программирование/лаб 2/vector.h
+
+/Volumes/VM/Учеба/Лабы/Готовые лабы /Программирование/лаб 2/vector.h
+iostream
+-
+cmath
+-
+
