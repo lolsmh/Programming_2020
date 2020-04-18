@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/s/Desktop/DanilaVanila/MyHeader.h
+iostream
+-
+cmath
+-
+vector
+-
+
+/Users/s/Desktop/DanilaVanila/main.cpp
+iostream
+-
+MyHeader.h
+/Users/s/Desktop/DanilaVanila/MyHeader.h
+
