@@ -7,6 +7,7 @@ private:
 public:
     CircleBuffer();
     explicit CircleBuffer(int n);
+    ~CircleBuffer();
 
     int &operator[](int i);
 

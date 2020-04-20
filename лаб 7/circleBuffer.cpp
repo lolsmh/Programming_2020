@@ -10,6 +10,10 @@ CircleBuffer::CircleBuffer(int n) {
     begin_ = new int[capacity];
 }
 
+CircleBuffer::~CircleBuffer() {
+    delete[](begin_);
+}
+
 int &CircleBuffer::operator[](int i) {
     return *(begin() + i % capacity);
 }
@@ -55,3 +59,4 @@ void CircleBuffer::resize(int n) {
     capacity = n;
     begin_ = begin_2;
 }
+
