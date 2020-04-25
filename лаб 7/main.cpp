@@ -17,7 +17,7 @@ int main() {
         std::cout << buff[i] << ' ';
     }
     std::cout << std::endl;
-    buff.enter(buff.begin() + 2, 3); //3 на место [2] позиции
+    buff.enterIt(buff.begin() + 2, 2); //3 на место [2] т.е 3-й позиции
     for (int i = 0; i < 10; ++i) {
         std::cout << buff[i] << ' ';
     }
@@ -34,5 +34,21 @@ int main() {
     for (int i = 0; i < 20; ++i) {
         std::cout << buff[i] << ' ';
     }
+    std::cout << std::endl;
+    buff.deleteBegin(); //удаляю первый элемент
+    for (int i = 0; i < 18; ++i) {
+        std::cout << buff[i] << ' ';
+    }
+    std::cout << std::endl;
+    buff.deleteEnd(); //удаляю последний элемент
+    for (int i = 0; i < 16; ++i) {
+        std::cout << buff[i] << ' ';
+    }
+    std::cout << std::endl;
+    buff.deleteIt(buff.begin() + 3); //удаляю произвольный элемент
+    for (int i = 0; i < 14; ++i) {
+        std::cout << buff[i] << ' ';
+    }
+    std::cout << std::endl;
     return 0;
 }

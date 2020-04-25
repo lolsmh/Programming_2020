@@ -16,6 +16,9 @@ public:
 
     void enterEnd(int num);
     void enterBegin(int num);
-    void enter(const int *it, int num);
+    void enterIt(const int *it, int num);
+    void deleteEnd();
+    void deleteBegin();
+    void deleteIt(const int *it);
     void resize(int n);
 };

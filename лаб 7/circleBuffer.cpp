@@ -50,7 +50,7 @@ void CircleBuffer::enterBegin(int num) {
     *begin() = num;
 }
 
-void CircleBuffer::enter(const int *it, int num) {
+void CircleBuffer::enterIt(const int *it, int num) {
     int index = it - begin();
     int *begin_2 = new int[capacity++];
     int count = 0;
@@ -81,6 +81,44 @@ void CircleBuffer::resize(int n) {
     }
     free(begin());
     capacity = n;
+    begin_ = begin_2;
+}
+
+void CircleBuffer::deleteEnd() {
+    int *begin_2 = new int[capacity--];
+    int count = 0;
+    for (auto i = begin(); i <= end(); i++) {
+        *(begin_2 + count) = *i;
+        count++;
+    }
+    free(begin());
+    begin_ = begin_2;
+}
+
+void CircleBuffer::deleteBegin() {
+    int *begin_2 = new int[capacity--];
+    int count = 0;
+    for (auto i = begin() + 1; i <= end() + 1; i++) {
+        *(begin_2 + count) = *i;
+        count++;
+    }
+    free(begin());
+    begin_ = begin_2;
+}
+
+void CircleBuffer::deleteIt(const int *it) {
+    int index = it - begin();
+    int *begin_2 = new int[capacity--];
+    int count = 0;
+    for (auto i = begin(); i < begin() + index; i++) {
+        *(begin_2 + count) = *i;
+        count++;
+    }
+    for (auto i = begin() + index + 1; i <= end() + 1; i++) {
+        *(begin_2 + count) = *i;
+        count++;
+    }
+    free(begin());
     begin_ = begin_2;
 }
 
