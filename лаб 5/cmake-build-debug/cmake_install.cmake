@@ -1,4 +1,4 @@
-# Install script for directory: /Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5
+# Install script for directory: /Users/s/Desktop/Programming_2020/лаб 5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/s/Desktop/Programming_2020/лаб 5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

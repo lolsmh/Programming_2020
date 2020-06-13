@@ -123,33 +123,6 @@ _7/fast:
 	$(MAKE) -f CMakeFiles/_7.dir/build.make CMakeFiles/_7.dir/build
 .PHONY : _7/fast
 
-circleBuffer.o: circleBuffer.cpp.o
-
-.PHONY : circleBuffer.o
-
-# target to build an object file
-circleBuffer.cpp.o:
-	$(MAKE) -f CMakeFiles/_7.dir/build.make CMakeFiles/_7.dir/circleBuffer.cpp.o
-.PHONY : circleBuffer.cpp.o
-
-circleBuffer.i: circleBuffer.cpp.i
-
-.PHONY : circleBuffer.i
-
-# target to preprocess a source file
-circleBuffer.cpp.i:
-	$(MAKE) -f CMakeFiles/_7.dir/build.make CMakeFiles/_7.dir/circleBuffer.cpp.i
-.PHONY : circleBuffer.cpp.i
-
-circleBuffer.s: circleBuffer.cpp.s
-
-.PHONY : circleBuffer.s
-
-# target to generate assembly for a file
-circleBuffer.cpp.s:
-	$(MAKE) -f CMakeFiles/_7.dir/build.make CMakeFiles/_7.dir/circleBuffer.cpp.s
-.PHONY : circleBuffer.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... _7"
-	@echo "... circleBuffer.o"
-	@echo "... circleBuffer.i"
-	@echo "... circleBuffer.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

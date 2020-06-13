@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/s/Desktop/Programming_2020/лаб 7/circleBuffer.cpp">
-			<Option target="_7"/>
-		</Unit>
 		<Unit filename="/Users/s/Desktop/Programming_2020/лаб 7/circleBuffer.h">
 			<Option target="_7"/>
 		</Unit>

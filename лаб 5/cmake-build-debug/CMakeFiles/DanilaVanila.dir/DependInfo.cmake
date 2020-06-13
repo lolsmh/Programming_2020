@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/main.cpp" "/Volumes/VM/ITMO/Лабы/Готовые лабы /Программирование/лаб 5/cmake-build-debug/CMakeFiles/DanilaVanila.dir/main.cpp.o"
+  "/Users/s/Desktop/Programming_2020/лаб 5/main.cpp" "/Users/s/Desktop/Programming_2020/лаб 5/cmake-build-debug/CMakeFiles/DanilaVanila.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

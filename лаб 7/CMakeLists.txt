@@ -3,4 +3,4 @@ project(_7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(_7 main.cpp circleBuffer.h circleBuffer.cpp)
+add_executable(_7 main.cpp circleBuffer.h)
